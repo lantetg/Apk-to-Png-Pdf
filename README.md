@@ -78,9 +78,7 @@ v3.0 ⋮ 2024-15-04
 - Removed old Anti-VM method
 ```
 ## <a id="preview"></a>👁️ 〢 Preview
-Video: https://youtu.be/VwcxSOoK-eU
-
-
+Video: https://www.youtube.com/watch?v=wXl8vatRKiM
 <a href="https://ibb.co/SxZtvXN"><img src="https://i.ibb.co/TTN4hBc/v8-1.png" alt="v8-1" border="0"></a>
 
 <a href="https://ibb.co/r4d6fpJ"><img src="https://i.ibb.co/f4DpGN7/v8-2.png" alt="v8-2" border="0"></a>
